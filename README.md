@@ -32,8 +32,8 @@ This application retrieves relevant content from the **NCTB Physics curriculum**
 **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Musfiq420/rag-mcq-generator.git
+cd rag-mcq-generator
 ```
 
 ## 📦 Install Dependencies
