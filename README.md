@@ -34,12 +34,13 @@ This application retrieves relevant content from the **NCTB Physics curriculum**
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
+```
 
 ## 📦 Install Dependencies
 
 ```bash
 pip install -r requirements.txt
-
+```
 
 ## 🔐 Environment Variables
 
@@ -51,16 +52,15 @@ Add:
 ```toml
 PINECONE_API_KEY = "your_pinecone_api_key"
 GROQ_API_KEY = "your_groq_api_key"
-
+```
 
 ## ▶️ Run the App
 
 ```bash
 streamlit run mcq_streamlit_app.py
-Then visit:
+```
 
-arduino
-Copy code
+Then visit:
 http://localhost:8501
 
 ## 📁 Directory Structure
@@ -71,6 +71,7 @@ http://localhost:8501
  ┣ 📁 .streamlit
  ┃ ┗ 📜 secrets.toml
  ┗ 📜 README.md
+
 
 
 ## 🧠 How It Works
