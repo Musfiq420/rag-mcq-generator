@@ -63,14 +63,6 @@ streamlit run mcq_streamlit_app.py
 Then visit:
 http://localhost:8501
 
-## 📁 Directory Structure
-
-📦 project-folder
- ┣ 📜 mcq_streamlit_app.py
- ┣ 📜 requirements.txt
- ┣ 📁 .streamlit
- ┃ ┗ 📜 secrets.toml
- ┗ 📜 README.md
 
 
 
